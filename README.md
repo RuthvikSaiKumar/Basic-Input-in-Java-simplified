@@ -10,4 +10,7 @@ double d = Input.inputDouble();
 ...
 ```
 
+# Download
+You can download this jar file from the source or from the releases
+
 > Hope you felt this useful. :smile:
