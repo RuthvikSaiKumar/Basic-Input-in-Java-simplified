@@ -9,7 +9,7 @@ char c = Input.inputChar();
 double d = Input.inputDouble();
 ...
 ```
-Sometimes you have to print something to as for input, so here you can just pass that as a String argument for the function like : 
+Sometimes you have to print something to ask for input, so here you can just pass that as a String argument for the function like : 
 ```java
 int a = Input.inputInt("Enter a number : ");
 ...
